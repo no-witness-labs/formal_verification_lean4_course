@@ -1,6 +1,3 @@
-Session 2: Exercises
-====================
-
 1. Define `mult : Nat -> Nat -> Nat` and `factorial : Nat -> Nat` for `Natural` numbers.
 
 2. Translate the following logical statements into types using Curry–Howard correspondence:
